@@ -105,5 +105,5 @@ Best model: **XGBoost**
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/churn-prediction-ml.git
+   git clone https://github.com/Pavani-Reddy111/churn-prediction-ml.git
 # churn-prediction-
