@@ -1,8 +1,8 @@
 scikit-learn
 pandas
-sklearn
 seaborn
 matplotlib
+
 
 
 
